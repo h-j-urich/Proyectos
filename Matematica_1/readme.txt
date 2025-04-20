@@ -12,8 +12,8 @@ Requisitos:
 - No requiere librerías externas
 
 Instalación:
-- Clonar el repositorio o descargar el archivo `conversion_numeros.py`.
-- Abrir una terminal y ejecutar: `python conversion_numeros.py`.
+- Clonar el repositorio o descargar el archivo "Integracion_1.py".
+- Abrir una terminal y ejecutar: "python Integracion_1.py".
 
 Uso:
 El programa solicita al usuario que elija una conversión por medio de un menu de opciones.-
